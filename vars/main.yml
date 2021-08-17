@@ -1,0 +1,5 @@
+---
+# vars file for roles
+  kibana_version: "7.13.12"
+  kibana_home: "/opt/kibana/{{ kibana_version }}"
+  kibana_package: "kibana-7.13.2-linux-x86_64.tar.gz"
